@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Resize angle, count, and stage on keypoint number change (#7598)
