@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
