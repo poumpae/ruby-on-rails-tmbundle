@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
