@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Tracker: clean up GMC (#8003)
