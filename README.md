@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Add Amazon Sagemaker Docs integrations page (#7293)
