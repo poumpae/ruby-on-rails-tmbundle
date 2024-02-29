@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Python refactorings and simplifications (#7549)
