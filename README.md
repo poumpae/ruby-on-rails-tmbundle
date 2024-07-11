@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
