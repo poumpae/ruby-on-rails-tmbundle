@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Compare plt.get_backend() in lowercase (#8409)
